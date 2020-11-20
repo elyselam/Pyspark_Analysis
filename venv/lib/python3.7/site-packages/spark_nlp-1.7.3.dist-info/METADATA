@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: spark-nlp
+Version: 1.7.3
+Summary: NLP Text processing library built on top of Apache Spark
+Home-page: http://nlp.johnsnowlabs.com
+Author: John Snow Labs
+License: UNKNOWN
+Keywords: NLP spark development
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
+
+# Spark-NLP
+John Snow Labs Spark-NLP is a natural language processing library built on top of Apache Spark ML. It provides simple, performant & accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+
+## Requirements
+SparkNLP is built on top of Apache Spark 2.3.0 and works with any user provided Spark 2.x.x it is advised to have basic knowledge of the framework and a working environment before using Spark-NLP.
+
